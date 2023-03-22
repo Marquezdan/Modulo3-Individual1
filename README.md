@@ -3,7 +3,7 @@
 
 #-Perguntas:
 1. Existem outras entidades além dessas?
-Não.
+Sim, a relação entre empresa e tecnologia se torna uma nova entidade.
 2. Quais são os principais campos e tipos?
 Os principais campos são ID e tipo INT.
 
