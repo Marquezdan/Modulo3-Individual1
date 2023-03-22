@@ -5,9 +5,9 @@
 1. Existem outras entidades além dessas?
 Não.
 2. Quais são os principais campos e tipos?
-Nome,ID,Área.
+Os principais campos são ID e tipo INT.
 
 3. Como essas entidades estão relacionadas?
 
-
+Estão relacionadas de uma forma que a empresa parceira pode possuir várias tecnologias, assim como uma tecnologia pode estar presente em várias empresas.
 
